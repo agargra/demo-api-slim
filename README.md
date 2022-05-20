@@ -21,8 +21,9 @@ $> cd demo-api-slim
 
 ```
 $> composer install
+Note: on windows systems, you may get a "Failed to extract respect/validation" error when installing packages.
+It doesn't matter. You can continue with the next step.
 ```
-
 
 3. Configure env vars
 
